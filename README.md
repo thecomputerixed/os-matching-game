@@ -35,7 +35,7 @@ Instead of memorizing, pupils can now **play and learn**, matching devices (phon
 
 ## 🚀 Live Demo  
 👉 [Play the Game Here](https://thecomputerixed.github.io/os-matching-game/)  
-*(Replace `your-username` with your GitHub username once you publish on GitHub Pages)*  
+ 
 
 ---
 
