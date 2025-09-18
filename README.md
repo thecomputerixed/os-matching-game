@@ -40,7 +40,19 @@ Instead of memorizing, pupils can now **play and learn**, matching devices (phon
 ---
 
 ## 📂 Project Structure  
-
+os-matching-game/
+│── index.html # Main game file
+│── images/ # Device & OS logo images
+│ ├── phone.jpeg
+│ ├── iphone.jpeg
+│ ├── laptop.jpeg
+│ ├── macbook.jpeg
+│ ├── linux.jpeg
+│ ├── android.jpeg
+│ ├── ios.jpeg
+│ ├── windows.jpeg
+│ ├── macos.jpeg
+│ ├── linuxos.jpeg
 
 ---
 
